@@ -14,6 +14,6 @@
 
 来自在线学习Coursera课程机器学习的笔记，可以在[coursera：机器学习](https://www.coursera.org/learn/machine-learning)观看。
 
-- [01. 简介](pattern-machine-learing/chapter01.ipynb##01. 简介)
+- [01. 简介](pattern-machine-learing/chapter01.ipynb#01-简介)
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
